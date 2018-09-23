@@ -1,0 +1,49 @@
+.header{
+    background-color: yellow;
+    width: 100%;
+    height: 10%;
+}
+
+.image{
+    background-color: red;
+    height:100%;
+    width:10%;
+    float: left;
+}
+
+.image img{
+    height:100%;
+}
+
+.title{
+    float:right;
+    background-color: blue;
+    width: 90%;
+    height: 100%;
+    text-align: center;
+}
+
+
+
+.content{
+    width: 100%;
+    height: 90%;
+}
+
+.login{
+    display: flex;
+	justify-content: center;
+  	align-items: center;
+  	width: 100%;
+  	height: 100%;
+  	text-align: center;
+}
+
+
+
+.page{
+    background-color: black;
+    width: 100%;
+    height: 900px;
+}
+
