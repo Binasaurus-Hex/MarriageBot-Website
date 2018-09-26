@@ -32,3 +32,6 @@ class User:
 
     def __str__(self):
         return dumps(self.json)
+
+    def get_name(self):
+        return self.username+"#"+self.discriminator
