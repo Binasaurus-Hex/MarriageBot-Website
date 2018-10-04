@@ -10,3 +10,14 @@
 .jumbotron {
     border-radius: 0;
 }
+
+.sp-replacer {
+    max-width: 70px;
+    float:right;
+    margin-right: 10px;
+}
+
+.dropdown-item {
+    overflow: hidden;
+    max-width: 90vw;
+}
